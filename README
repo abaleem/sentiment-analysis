@@ -1,0 +1,11 @@
+using python 3 [Pycharm]
+
+we are using SVM for the first dataset and Neural Networks for the second dataset.
+
+
+for Data set 1
+- Run the file sa.py
+
+for Data set 2
+- run nntraintest.py to train and test
+- run nntest.py to only test (given we have weights saved)
